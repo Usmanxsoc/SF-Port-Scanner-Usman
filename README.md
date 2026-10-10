@@ -58,8 +58,8 @@
 
 ```bash
 # 1. Download the project
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Usmanxsoc/SF-Port-Scanner-Usman.git
+cd SF-Port-Scanner-Usman
 
 # 2. Run a scan on your own computer
 python main.py 127.0.0.1 1 1024
@@ -236,8 +236,8 @@ Released under the [MIT License](LICENSE).
 
 **Muhammad Usman**
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Usmanxsoc-181717?style=for-the-badge&logo=github)](https://github.com/Usmanxsoc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--usman--sf-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-usman-sf/)
 
 ⭐ If you found this useful, consider giving the repo a star!
 
