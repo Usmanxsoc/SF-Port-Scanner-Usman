@@ -25,7 +25,7 @@
 
 **Live scan in the terminal**
 
-<img src="docs/screenshots/terminal-scan.png" alt="Terminal scan output" width="800">
+<img src="docs/screenshots/terminal--scan.png" alt="Terminal scan output" width="800">
 
 **Generated HTML report**
 
